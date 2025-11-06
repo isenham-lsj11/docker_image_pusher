@@ -1,2 +1,4 @@
 #genai-toolbox
 us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.18.0
+#inspector
+ghcr.io/modelcontextprotocol/inspector:0.17.2
