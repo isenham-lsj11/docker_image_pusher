@@ -1,2 +1,3 @@
 #genai-toolbox
+us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:v0.17.0
 us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:v0.18.0
