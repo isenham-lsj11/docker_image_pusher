@@ -4,4 +4,4 @@ us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.18.0
 ghcr.io/modelcontextprotocol/inspector:0.17.2
 #superset
 apache/superset:6.0.0rc2
-apache/superset:6.0.0rc3
+apache/superset:5.0.0
