@@ -7,3 +7,4 @@ apache/superset:6.0.0rc2
 apache/superset:5.0.0
 apache/superset:4.1.4
 apache/superset
+stonedtx/stonedt_yuqing:1.3.0
