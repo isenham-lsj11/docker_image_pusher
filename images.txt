@@ -5,3 +5,4 @@ ghcr.io/modelcontextprotocol/inspector:0.17.2
 #superset
 apache/superset:6.0.0rc2
 apache/superset:5.0.0
+apache/superset:4.1.4
